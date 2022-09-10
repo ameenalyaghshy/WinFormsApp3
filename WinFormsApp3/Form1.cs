@@ -5,6 +5,8 @@ namespace WinFormsApp3
         public Form1()
         {
             InitializeComponent();
+
+messagebox("Ameeen");
         }
     }
 }
